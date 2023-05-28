@@ -1,0 +1,7 @@
+setup.py
+antiFloating/__init__.py
+antiFloating/antiFloating.py
+antifloating.egg-info/PKG-INFO
+antifloating.egg-info/SOURCES.txt
+antifloating.egg-info/dependency_links.txt
+antifloating.egg-info/top_level.txt
